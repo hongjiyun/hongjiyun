@@ -21,7 +21,7 @@
 </table>
 
 
-🗣️ Languages:
+# 🗣️ Languages:
 <p align="center">
   <img src="https://img.shields.io/badge/Korean-Native-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/English-Intermediate-1E90FF?style=for-the-badge"/>
