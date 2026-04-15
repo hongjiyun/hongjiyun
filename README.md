@@ -20,6 +20,14 @@
   </tr>
 </table>
 
+
+#🗣️ Languages:
+<p>
+  <img src="https://img.shields.io/badge/Korean-Native-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Intermediate-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Japanese-Basic-FF4B4B?style=for-the-badge"/>
+</p>
+
 ---
 [![](https://komarev.com/ghpvc/?username=hongjiyun&icon=0&color=0)](https://visitcount.itsvg.in)
 
