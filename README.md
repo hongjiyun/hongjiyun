@@ -1,7 +1,5 @@
 <h1 align="center">Hi 🤝, I'm hongjiyun, a web designer</h1>
 <h3 align="center">“A designer who works across web, product, illustration, and poster design, creating trend-driven visuals.”</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
