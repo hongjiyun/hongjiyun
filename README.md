@@ -14,9 +14,7 @@
     <td>
       <img src="https://streak-stats.demolab.com/?user=hongjiyun&theme=dark&hide_border=false"/>
     </td>
-    <td valign="middle">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hongjiyun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    </td>
+   
   </tr>
 </table>
 
