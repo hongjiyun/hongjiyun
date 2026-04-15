@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Japanese-Upper--Intermediate-FF4B4B?style=for-the-badge"/>
 </p>
 
----
-[![](https://komarev.com/ghpvc/?username=hongjiyun&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
